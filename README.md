@@ -3,7 +3,7 @@
 
 - 📫 Contact me at : **dev@nosniktaj.com**
 - 🏢 Currently Employed at <a href="https://github.com/AMI-Marine" target="_blank"/>AMI Marine Ltd.</a>
-- 👨‍💻 Currently Working on WhiterunGuard Discord Bot as well as Minecraft Marriage Addon alongside <a href="https://github.com/1Joshneedzhelp1" target="_blank">Josh</a>
+- 👨‍💻 Currently Working on WhiterunGuard Discord Bot as well as personal website project
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
