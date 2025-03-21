@@ -3,7 +3,7 @@
 
 - 📫 Contact me at : **dev@nosniktaj.com**
 - 🏢 Currently Employed at <a href="https://github.com/AMI-Marine" target="_blank"/>AMI Marine Ltd.</a>
-- 👨‍💻 Currently Working on WhiterunGuard Discord Bot as well as personal website project
+- 👨‍💻 Currently Working on RTSPCamLib Project which focuses on being able to stream RTSP Cameras through C#
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
